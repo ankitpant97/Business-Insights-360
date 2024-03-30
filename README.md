@@ -34,5 +34,12 @@ Company Background: AtliQ Hardware sells computers and accessories through retai
 Project Outcome: This project aims to clarify the purpose and goals of the data analytics initiative. The report generated will enable data-driven decision-making and answer numerous questions about the company's performance. It's a step towards surviving and thriving in the industry.
 
 Overall Report
-Home Page of the Dashboard![Capture1](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/86f495aa-c6f2-4277-98cf-406b8c90fd05)Finance View![2](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/34d0263b-a3c8-4d35-93f3-8c196240e5e6)Sales View![3](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/47349821-6ad5-4961-a703-42ea7a864224)Marketing View![4](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/76ed04d3-d63f-4fa5-8203-39e85b02c091)Supply Chain View![5](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/0d7e3ef0-35d1-4cd8-84a0-46a7c6cbced7)Executive View![6](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/bda4e295-e60c-4cf8-ab1b-22f6bf3b673d)Info Page![7](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/b5ae6a14-5aab-45d4-8102-caa282a84819)Support Page![8](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/cf988f17-c9cb-4a7f-a495-9422577426c0)
+Home Page of the Dashboard![Capture1](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/86f495aa-c6f2-4277-98cf-406b8c90fd05)
+Finance View![2](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/34d0263b-a3c8-4d35-93f3-8c196240e5e6)
+Sales View![3](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/47349821-6ad5-4961-a703-42ea7a864224)
+Marketing View![4](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/76ed04d3-d63f-4fa5-8203-39e85b02c091)
+Supply Chain View![5](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/0d7e3ef0-35d1-4cd8-84a0-46a7c6cbced7)
+Executive View![6](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/bda4e295-e60c-4cf8-ab1b-22f6bf3b673d)
+Info Page![7](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/b5ae6a14-5aab-45d4-8102-caa282a84819)
+Support Page![8](https://github.com/ankitpant97/Business-Insights-360/assets/152053095/cf988f17-c9cb-4a7f-a495-9422577426c0)
 
