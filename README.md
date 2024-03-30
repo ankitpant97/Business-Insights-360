@@ -1,6 +1,6 @@
 # Business-Insights-360
 
-[Link to interatice dashboard] (https://app.powerbi.com/view?r=eyJrIjoiZTg3MGY3NDctNTdiYS00OWU5LWE2ZjctNjAwYmRhYmI1YmNjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+[Link to interatice dashboard](https://app.powerbi.com/view?r=eyJrIjoiZTg3MGY3NDctNTdiYS00OWU5LWE2ZjctNjAwYmRhYmI1YmNjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 AtliQ Hardware, a rapidly growing company, has decided to use PowerBi for data analytics to gain a competitive edge and make informed decisions. This project aims to provide insights into various aspects such as finance, sales, marketing, and supply chain.
 
 I worked on this project by following the Codebasics PowerBi Course and used the following tools and techniques:
